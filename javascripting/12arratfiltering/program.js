@@ -8,6 +8,4 @@ var even = numbers.filter(function(i) {
     return isEven(i)
 })
 
-
-
 console.log(even)
